@@ -1,1 +1,1 @@
- This is a non empty readme
+ The only time i am allowed to update readme from gui
